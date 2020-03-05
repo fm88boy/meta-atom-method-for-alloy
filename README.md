@@ -10,8 +10,11 @@ The proposed meta-atom method is based on the following conjecture: the mechanic
 The potentials we have developed include:
 
 Twin induced plasticity (TWIP) steels-----FeMn alloy
+
 TaHfZrTi high-entropy alloy-----TaHfZrTi alloy
+
 Aluminum bronzes-----CuAl alloy
+
 FeCoNiCrMn high-entropy alloy-----FeCoNiCrMn alloy
 
 Potentials could be downloaded on the website: http://101.132.189.106:8080/potentials.html
