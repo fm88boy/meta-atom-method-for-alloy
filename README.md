@@ -1,11 +1,17 @@
 # meta-atom-method-for-alloy
-This is the basic function for the meta atom method, which is designed for alloys.
+This is the basic function for the meta atom method, which is designed for complex alloys.
 
 This method is developed by Peng Wang at Shanghai University.
 
-For more information, please refer to the paper which is published in the Journal of the Mechanics & Physics of Solids.
+A series of potentials for alloy has been developed in the framework of meta-atom method.
 
-Wang, P., Xu, S., Liu, J., Li, X., Wei, Y., Wang, H., Gao, H., and Yang, W., Atomistic simulation for deforming complex alloys with application toward TWIP steel and associated physical insights. Journal of the Mechanics & Physics of Solids, 2017. 98: p. 290-308.
-Wang, P. and Wang, H., Meta-Atom Molecular Dynamics for Studying Material Property Dependent Deformation Mechanisms of Alloys. Journal Of Applied Mechanics-Transactions Of the Asme, 2017. 84(11): p. 111002
-Wang, P., Shao, Y., Wang, H., and Yang, W., Accurate interatomic force field for molecular dynamics simulation by hybridizing classical and machine learning potentials. Extreme Mechanics Letters, 2018. 24: p. 1-5.
-Wang, P., Wu, Y., Liu, J., and Wang, H., Impacts of atomic scale lattice distortion on dislocation activity in high-entropy alloys. Extreme Mechanics Letters, 2017. 17: p. 38-42.
+The proposed meta-atom method is based on the following conjecture: the mechanical properties of an alloy system are primarily governed by a finite set of material constants, such as the lattice constants, the surface energy, the stable and unstable stacking fault energies (SFE), the elastic moduli, the sublimation energy and the vacancy formation energy. Once the completeness of this set of material constants is established, two systems with the same material constants should exhibit identical mechanical behaviors in experimental observations. In this way, a detailed distinction among various atomic species is discarded and an alloy system is represented by a set of meta-atoms with a single interatomic potential to fit all related material constants.
+
+The potentials we have developed include:
+
+Twin induced plasticity (TWIP) steels-----FeMn alloy
+TaHfZrTi high-entropy alloy-----TaHfZrTi alloy
+Aluminum bronzes-----CuAl alloy
+FeCoNiCrMn high-entropy alloy-----FeCoNiCrMn alloy
+
+Potentials could be downloaded on the website: http://101.132.189.106:8080/potentials.html
