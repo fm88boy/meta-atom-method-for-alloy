@@ -17,4 +17,4 @@ Aluminum bronzes-----CuAl alloy
 
 FeCoNiCrMn high-entropy alloy-----FeCoNiCrMn alloy
 
-Potentials could be downloaded on the website: http://101.132.189.106:8080/potentials.html
+Potentials could be downloaded on the website: http://www.nanomech.cn/potentials.html
